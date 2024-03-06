@@ -1,7 +1,5 @@
 # Arduino
 Ampelschaltung-läuft-zyklisch
-LF7: Ampelprojekt Arduino
-Ampelprojekt Arduino
 
 Little Arduino Project, only for school purposes only.
 Erstellen Sie ein GIT-Repository und bearbeiten folgende Entwicklungsschritte.
@@ -16,7 +14,7 @@ Jede Neuergänzung und Tests werden in Branches ausgelagert.
 
 
 
-Aufgabe: 
+Aufgabe 1: 
 
 int switchState = 0;
 void setup() {
