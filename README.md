@@ -1,5 +1,5 @@
 # Arduino
-LF7: Ampelprojekt Arduino
+Ampelprojekt Arduino
 
 Little Arduino Project, only for school purposes only.
 Erstellen Sie ein GIT-Repository und bearbeiten folgende Entwicklungsschritte.
