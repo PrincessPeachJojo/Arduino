@@ -1,18 +1,6 @@
 # Arduino
 1. Ampelschaltung-läuft-zyklisch
 
-Little Arduino Project, only for school purposes only.
-Jede Neuergänzung und Tests werden in Branches ausgelagert.
-1) Ampelschaltung läuft zyklisch durch
-2) Fußgängerampel implementieren
-3) Bedarfsanmeldung mittels Push-Button
-4) Ton-Signal, wenn die Fußgängerampel grün zeigt
-5) Kopplung des Bedarfrufs von zwei Straßenseiten.
-
-
-
-Aufgabe 1: 
-
 int switchState = 0;
 void setup() {
  // put your setup code here, to run once:
