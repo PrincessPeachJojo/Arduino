@@ -1,5 +1,5 @@
-
 1. Ampelschaltung-läuft-zyklisch
+
  int switchState = 0;
  void setup() {
  // put your setup code here, to run once:
